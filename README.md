@@ -1,34 +1,13 @@
 # 2D-Priv_Game
-Sth
+
+Welcome, it's my amateur 2D Unity Game project
+
+1. Firstly, you have to download UnityHub from this link: https://unity3d.com/get-unity/download
+2. Then choose this versiion: 2021.1.25f1
+3. Upload Assets from mail
+4. Enjoy XD 
 
 
-sada
+(Nie da sie opisac wszystkiego jesli mialbys sam wszystko ustawiac to nie jest realne do zrobienia.
+Trzeba by było caly plik jakos wyslac ale idk jak xd )
 
-s
-da
-sda
-sd
-as
-da
-sd
-a
-sd
-a
-s
-das
-d
-as
-da
-sd
-as
-da
-da
-asdsa
-da
-sda
-sgf
-asg
-sfa
-sa
-
-:)))
